@@ -1,0 +1,8 @@
+claim,when it is supportable,evidence to retain
+"Selected files stay in the browser","The application does not send selected-file bytes to the site's server or a third-party API","Network inspection and source review"
+"Transcription runs on this device","The inference runtime executes in the visitor browser","Source review and a browser test"
+"Audio or video files your browser can play","The file input accepts audio/video and actual browser playback capability is the boundary","Input attribute and browser test"
+"No limit is set by this page","The page does not impose a duration or byte-size threshold","Source review"
+"Copy text","A completed transcript can be copied in the target browser","Manual browser test"
+"Download .txt","A completed transcript can be saved as a text file","Manual browser test"
+
