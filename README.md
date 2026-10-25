@@ -18,9 +18,8 @@ It is designed for product teams that need to describe a browser-local transcrip
 
 ## Live example
 
-ClipText is a browser-local transcript tool that applies this pattern: https://reeltextstudio.com/
+ReelTextStudio is a browser-local transcript tool that applies this pattern: https://reeltextstudio.com/
 
 ## Scope
 
 This repository provides product-copy and QA resources, not an ASR model, model weights, or a guarantee of browser capability.
-
